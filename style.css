@@ -1,0 +1,92 @@
+.sct1{
+    background-color:rgb(163, 50, 188);
+}
+.img1{
+    margin-top: 100px;
+    height: 500px;
+    width: 500px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+#heading1{
+    color: white;
+    margin-top: 200px;
+}
+#what{
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+}
+.img2{
+    margin-top: 50px;
+    height: 100px;
+    width: 150px;
+    margin-bottom: 50px;
+}
+.btn1{
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+    background-color: purple;
+    margin-left:30% ;
+    
+}
+#heading3{
+    text-align: center;
+    margin-top: 200px;
+}
+.img3{
+    margin-top: 100px;
+    height: 400px;
+    width: 500px;
+    
+}
+#sct2{
+    background-color: lightgray;
+}
+#heading4{
+    text-align: center;
+    margin-top: 200px;
+}
+.paragraph3{
+    margin-top: 100px;
+}
+.img4{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 15px;
+}
+.sct3{
+    background-color: lightgrey;
+}
+#heading5{
+    text-align: center;
+    margin-top: 200px;
+}
+.paragraph5{
+    margin-top: 200px;
+    color: white;
+}
+.heading6{
+   margin-top: 200px; 
+}
+.btn3{
+    background-color: purple;
+    border-radius: 15px;
+    color: white;
+}
+.heading7{
+    text-align: center;
+    margin-top: 200px;
+}
+.paragraph1{
+    color: white;
+}
+
+.fa{
+    color: brown;
+    height: 50px;
+    width: 50px;
+}
+
